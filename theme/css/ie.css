@@ -1,0 +1,16 @@
+@font-face{font-family:'georgia';src:url(georgia-webfont.eot);}
+@font-face{font-family:'stmarie';src:url(stmarie-thin-webfont.eot);}
+@font-face{font-family:'league';src:url(league_gothic-webfont.eot);}
+@font-face{font-family:'serifab';src:url(serifab-webfont.eot);}
+@font-face {
+    font-family: 'geosanslightregular';
+    src: url('GeosansLight-webfont.eot');
+    src: url('GeosansLight-webfont.eot@#iefix') format('embedded-opentype'),
+         url('GeosansLight-webfont.woff2') format('woff2'),
+         url('GeosansLight-webfont.woff') format('woff'),
+         url('GeosansLight-webfont.ttf') format('truetype'),
+         url('GeosansLight-webfont.svg#geosanslightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
